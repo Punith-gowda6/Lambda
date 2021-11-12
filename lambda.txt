@@ -38,9 +38,6 @@ public class lambdaexp2 {
 	}
 }
 
-3.
-
-
 4.
 package Lambda;
 import java.util.*;
@@ -129,11 +126,6 @@ public class Replaceup {
 	}
 
 }
-
-7.
-
-
-
 
 8.import java.util.ArrayList;
 
